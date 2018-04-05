@@ -1,14 +1,5 @@
 {
-    "arguments": [
-        "--travis",
-        "-a",
-        "-ex",
-        "--plain",
-        "--split",
-        "-t 2",
-        "--share-logs"
-    ],
-    "autosave_minutes": "10",
+    "arguments": [],
     "commit_autosave_message": "Test of hosts",
     "currently_under_test": "0",
     "days_until_next_test": "1",
@@ -16,5 +7,7 @@
     "list_name": "hosts.list",
     "name": "hosts",
     "raw_link": "https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts",
-    "stable": "0"
+    "stable": "0",
+    "clean_original": "1",
+    "clean_list_file": "clean.list"
 }
