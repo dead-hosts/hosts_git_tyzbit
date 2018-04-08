@@ -1,23 +1,24 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
-        "1522963328": [
-            "compatexchange.cloudapp.net",
+        "1523163911": [
             "i1.services.social.microsoft.com.nsatc.net",
             "oca.telemetry.microsoft.com.nsatc.net",
             "sls.update.microsoft.com.akadns.net",
             "telecommand.telemetry.microsoft.com.nsatc.net",
             "vortex-bn2.metron.live.com.nsatc.net",
             "vortex-cy2.metron.live.com.nsatc.net",
-            "watson.telemetry.microsoft.com.nsatc.net",
-            "i1.services.social.microsoft.com.nsatc.net",
-            "oca.telemetry.microsoft.com.nsatc.net",
-            "sls.update.microsoft.com.akadns.net",
-            "telecommand.telemetry.microsoft.com.nsatc.net",
-            "vortex-bn2.metron.live.com.nsatc.net",
-            "vortex-cy2.metron.live.com.nsatc.net",
-            "watson.telemetry.microsoft.com.nsatc.net",
-            "compatexchange.cloudapp.net"
+            "watson.telemetry.microsoft.com.nsatc.net"
         ],
-        "to_test": []
+        "to_test": [
+            "i1.services.social.microsoft.com.nsatc.net",
+            "oca.telemetry.microsoft.com.nsatc.net",
+            "sls.update.microsoft.com.akadns.net",
+            "telecommand.telemetry.microsoft.com.nsatc.net",
+            "vortex-bn2.metron.live.com.nsatc.net",
+            "vortex-cy2.metron.live.com.nsatc.net",
+            "watson.telemetry.microsoft.com.nsatc.net",
+            "compatexchange.cloudapp.net",
+            "compatexchange.cloudapp.net"
+        ]
     }
 }
