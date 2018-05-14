@@ -49,6 +49,8 @@
         "--commit-autosave-message \"[Autosave] Test of hosts\"",
         "--commit-results-message \"[Results] Test of hosts\"",
         "--commit-autosave-message \"[Autosave] Test of hosts\"",
+        "--commit-results-message \"[Results] Test of hosts\"",
+        "--commit-autosave-message \"[Autosave] Test of hosts\"",
         "--commit-results-message \"[Results] Test of hosts\""
     ],
     "clean_list_file": "clean.list",
@@ -56,7 +58,7 @@
     "commit_autosave_message": "Test of hosts",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526188954",
+    "last_test": "1526275492",
     "list_name": "hosts.list",
     "name": "hosts",
     "raw_link": "https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts",
