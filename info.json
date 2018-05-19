@@ -5,10 +5,12 @@
     "commit_autosave_message": "Test of hosts",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526633334",
+    "last_test": "1526748325",
     "list_name": "hosts.list",
     "name": "hosts",
+    "ping": [
+        "tyzbit"
+    ],
     "raw_link": "https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts",
-    "stable": "0",
-    "ping":["tyzbit"]
+    "stable": "0"
 }
