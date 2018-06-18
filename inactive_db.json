@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
-        "1529214021": [
-            "i1.services.social.microsoft.com.nsatc.net",
+        "1529300422": [
             "oca.telemetry.microsoft.com.nsatc.net",
             "sls.update.microsoft.com.akadns.net",
             "telecommand.telemetry.microsoft.com.nsatc.net",
