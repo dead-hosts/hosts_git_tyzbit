@@ -1,7 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
-        "1531461153": [
-            "compatexchange.cloudapp.net",
+        "1531547605": [
             "i1.services.social.microsoft.com.nsatc.net",
             "oca.telemetry.microsoft.com.nsatc.net",
             "sls.update.microsoft.com.akadns.net",
@@ -17,7 +16,8 @@
             "telecommand.telemetry.microsoft.com.nsatc.net",
             "vortex-bn2.metron.live.com.nsatc.net",
             "vortex-cy2.metron.live.com.nsatc.net",
-            "watson.telemetry.microsoft.com.nsatc.net"
+            "watson.telemetry.microsoft.com.nsatc.net",
+            "compatexchange.cloudapp.net"
         ]
     }
 }
