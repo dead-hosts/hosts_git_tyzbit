@@ -7,16 +7,10 @@
             "telecommand.telemetry.microsoft.com.nsatc.net",
             "vortex-bn2.metron.live.com.nsatc.net",
             "vortex-cy2.metron.live.com.nsatc.net",
-            "watson.telemetry.microsoft.com.nsatc.net"
+            "watson.telemetry.microsoft.com.nsatc.net",
+            "compatexchange.cloudapp.net"
         ],
         "to_test": [
-            "compatexchange.cloudapp.net",
-            "oca.telemetry.microsoft.com.nsatc.net",
-            "sls.update.microsoft.com.akadns.net",
-            "telecommand.telemetry.microsoft.com.nsatc.net",
-            "vortex-bn2.metron.live.com.nsatc.net",
-            "vortex-cy2.metron.live.com.nsatc.net",
-            "watson.telemetry.microsoft.com.nsatc.net",
             "compatexchange.cloudapp.net"
         ]
     }
