@@ -1,7 +1,9 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 12 Aug 06:08:03 UTC 2018 
+# Date of generation: Tue 14 Aug 06:08:16 UTC 2018 
 
-0.0.0.0 redir.metaservices.microsoft.com 
-0.0.0.0 statsfe1.ws.microsoft.com 
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net 
-0.0.0.0 telecommand.telemetry.microsoft.com 
+0.0.0.0 cs1.wpc.v0cdn.net
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 ssw.live.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
+0.0.0.0 telecommand.telemetry.microsoft.com
