@@ -8,9 +8,7 @@
     "last_test": "1545463087",
     "list_name": "hosts.list",
     "name": "hosts",
-    "ping": [
-        "tyzbit"
-    ],
+    "ping": [],
     "raw_link": "https://raw.githubusercontent.com/tyzbit/hosts/master/data/tyzbit/hosts",
     "stable": "0"
 }
