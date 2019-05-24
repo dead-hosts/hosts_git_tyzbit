@@ -1,20 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
-        "1558600575": [
-            "statsfe2.update.microsoft.com.akadns.net",
-            "compatexchange.cloudapp.net"
-        ],
-        "1558600576": [
-            "statsfe2.update.microsoft.com.akadns.net",
-            "vortex-cy2.metron.live.com.nsatc.net",
-            "oca.telemetry.microsoft.com.nsatc.net",
-            "i1.services.social.microsoft.com.nsatc.net",
-            "compatexchange.cloudapp.net",
-            "watson.telemetry.microsoft.com.nsatc.net",
-            "telecommand.telemetry.microsoft.com.nsatc.net",
-            "vortex-bn2.metron.live.com.nsatc.net"
-        ],
-        "to_test": [
+        "1558687023": [
             "compatexchange.cloudapp.net",
             "i1.services.social.microsoft.com.nsatc.net",
             "oca.telemetry.microsoft.com.nsatc.net",
@@ -23,6 +9,7 @@
             "vortex-bn2.metron.live.com.nsatc.net",
             "vortex-cy2.metron.live.com.nsatc.net",
             "watson.telemetry.microsoft.com.nsatc.net"
-        ]
+        ],
+        "to_test": []
     }
 }
