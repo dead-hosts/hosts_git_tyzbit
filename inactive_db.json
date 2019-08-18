@@ -2,7 +2,8 @@
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
         "1565613384": {},
         "1565774189": {},
-        "1565947037": {
+        "1565947037": {},
+        "1566120219": {
             "compatexchange.cloudapp.net": "INACTIVE",
             "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
             "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
