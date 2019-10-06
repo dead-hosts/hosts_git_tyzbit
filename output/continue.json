@@ -29,7 +29,9 @@
             "vortex-sandbox.data.microsoft.com",
             "vortex-win.data.microsoft.com",
             "watson.live.com",
-            "watson.microsoft.com"
+            "watson.microsoft.com",
+            "watson.ppe.telemetry.microsoft.com",
+            "watson.telemetry.microsoft.com"
         ],
         "INACTIVE": [
             "compatexchange.cloudapp.net",
