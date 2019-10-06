@@ -22,13 +22,19 @@
             "sqm.telemetry.microsoft.com.nsatc.net",
             "ssw.live.com",
             "statsfe1.ws.microsoft.com",
-            "survey.watson.microsoft.com"
+            "survey.watson.microsoft.com",
+            "telecommand.telemetry.microsoft.com",
+            "telemetry.urs.microsoft.com",
+            "vortex.data.microsoft.com"
         ],
         "INACTIVE": [
             "compatexchange.cloudapp.net",
             "i1.services.social.microsoft.com.nsatc.net",
             "oca.telemetry.microsoft.com.nsatc.net",
-            "statsfe2.update.microsoft.com.akadns.net"
+            "statsfe2.update.microsoft.com.akadns.net",
+            "telecommand.telemetry.microsoft.com.nsatc.net",
+            "vortex-bn2.metron.live.com.nsatc.net",
+            "vortex-cy2.metron.live.com.nsatc.net"
         ]
     }
 }

@@ -23,3 +23,6 @@
 0.0.0.0 ssw.live.com
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 telecommand.telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
