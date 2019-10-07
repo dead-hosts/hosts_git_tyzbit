@@ -15,7 +15,10 @@
             "pre.footprintpredict.com",
             "redir.metaservices.microsoft.com",
             "services.wes.df.telemetry.microsoft.com",
-            "settings-sandbox.data.microsoft.com"
+            "settings-sandbox.data.microsoft.com",
+            "sls.update.microsoft.com.akadns.net",
+            "sqm.df.telemetry.microsoft.com",
+            "sqm.telemetry.microsoft.com"
         ],
         "INACTIVE": [
             "compatexchange.cloudapp.net",
