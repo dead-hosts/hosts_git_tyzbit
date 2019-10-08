@@ -18,12 +18,17 @@
             "settings-sandbox.data.microsoft.com",
             "sls.update.microsoft.com.akadns.net",
             "sqm.df.telemetry.microsoft.com",
-            "sqm.telemetry.microsoft.com"
+            "sqm.telemetry.microsoft.com",
+            "sqm.telemetry.microsoft.com.nsatc.net",
+            "ssw.live.com",
+            "statsfe1.ws.microsoft.com",
+            "survey.watson.microsoft.com"
         ],
         "INACTIVE": [
             "compatexchange.cloudapp.net",
             "i1.services.social.microsoft.com.nsatc.net",
-            "oca.telemetry.microsoft.com.nsatc.net"
+            "oca.telemetry.microsoft.com.nsatc.net",
+            "statsfe2.update.microsoft.com.akadns.net"
         ]
     }
 }

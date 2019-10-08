@@ -32,7 +32,6 @@
         "1570276201": {},
         "1570365552": {},
         "1570456595": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE",
             "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
             "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
             "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE",
@@ -41,7 +40,8 @@
         "1570546293": {
             "compatexchange.cloudapp.net": "INACTIVE",
             "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {

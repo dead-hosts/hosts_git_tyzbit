@@ -19,3 +19,7 @@
 0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 ssw.live.com
+0.0.0.0 statsfe1.ws.microsoft.com
+0.0.0.0 survey.watson.microsoft.com
