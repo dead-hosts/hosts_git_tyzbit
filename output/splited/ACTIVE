@@ -24,3 +24,6 @@ sqm.telemetry.microsoft.com.nsatc.net                                           
 ssw.live.com                                                                                         Unknown           DNSLOOKUP  400        Tue 08 Oct 16:10:43 UTC 2019
 statsfe1.ws.microsoft.com                                                                            Unknown           DNSLOOKUP  403        Tue 08 Oct 16:10:43 UTC 2019
 survey.watson.microsoft.com                                                                          Unknown           DNSLOOKUP  XXX        Tue 08 Oct 16:10:43 UTC 2019
+telecommand.telemetry.microsoft.com                                                                  Unknown           DNSLOOKUP  404        Tue 08 Oct 17:10:11 UTC 2019
+telemetry.urs.microsoft.com                                                                          Unknown           DNSLOOKUP  XXX        Tue 08 Oct 17:10:11 UTC 2019
+vortex.data.microsoft.com                                                                            Unknown           DNSLOOKUP  XXX        Tue 08 Oct 17:10:11 UTC 2019
