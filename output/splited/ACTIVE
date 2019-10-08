@@ -27,3 +27,5 @@ survey.watson.microsoft.com                                                     
 telecommand.telemetry.microsoft.com                                                                  Unknown           DNSLOOKUP  404        Tue 08 Oct 17:10:11 UTC 2019
 telemetry.urs.microsoft.com                                                                          Unknown           DNSLOOKUP  XXX        Tue 08 Oct 17:10:11 UTC 2019
 vortex.data.microsoft.com                                                                            Unknown           DNSLOOKUP  XXX        Tue 08 Oct 17:10:11 UTC 2019
+vortex-sandbox.data.microsoft.com                                                                    Unknown           DNSLOOKUP  XXX        Tue 08 Oct 18:10:36 UTC 2019
+vortex-win.data.microsoft.com                                                                        Unknown           DNSLOOKUP  XXX        Tue 08 Oct 18:10:36 UTC 2019
