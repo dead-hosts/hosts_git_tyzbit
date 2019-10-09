@@ -1,37 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1565613384": {},
-        "1565774189": {},
-        "1565947037": {},
-        "1566120219": {},
-        "1566292807": {},
-        "1566465633": {},
-        "1566638636": {},
-        "1566811404": {},
-        "1566984301": {},
-        "1567157127": {},
-        "1567330003": {},
-        "1567502884": {},
-        "1567675761": {},
-        "1567848635": {},
-        "1568021477": {},
-        "1568110795": {},
-        "1568280750": {},
-        "1568369838": {},
-        "1568539997": {},
-        "1568712889": {},
-        "1568885752": {},
-        "1569065253": {},
-        "1569231470": {},
-        "1569404329": {},
-        "1569577125": {},
-        "1569665754": {},
-        "1569836721": {},
-        "1569924814": {},
-        "1570095675": {},
-        "1570276201": {},
-        "1570365552": {},
-        "1570456595": {},
         "1570546293": {
             "compatexchange.cloudapp.net": "INACTIVE",
             "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
@@ -41,6 +9,23 @@
             "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
             "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE",
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570660225": {
+            "ac3.msn.com": "INACTIVE"
+        },
+        "1570660356": {
+            "choice.microsoft.com.nsatc.net": "INACTIVE",
+            "cs1.wpc.v0cdn.net": "INACTIVE",
+            "diagnostics.support.microsoft.com": "INACTIVE"
+        },
+        "1570660487": {
+            "feedback.search.microsoft.com": "INACTIVE"
+        },
+        "1570660618": {
+            "feedback.windows.com": "INACTIVE"
+        },
+        "1570660749": {
+            "oca.telemetry.microsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
