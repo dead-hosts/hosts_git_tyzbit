@@ -8,3 +8,12 @@
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
 0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 services.wes.df.telemetry.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
+0.0.0.0 sqm.df.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com
+0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 ssw.live.com
+0.0.0.0 survey.watson.microsoft.com
