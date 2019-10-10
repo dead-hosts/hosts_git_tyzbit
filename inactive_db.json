@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1570546293": {
-            "compatexchange.cloudapp.net": "INACTIVE",
-            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE",
-            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
-            "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE",
-            "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
         "1570660225": {
             "ac3.msn.com": "INACTIVE"
         },
@@ -67,6 +57,27 @@
         },
         "1570670372": {
             "watson.live.com": "INACTIVE"
+        },
+        "1570674370": {
+            "watson.microsoft.com": "INACTIVE"
+        },
+        "1570674501": {
+            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570674632": {
+            "compatexchange.cloudapp.net": "INACTIVE",
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE",
+            "watson.telemetry.microsoft.com": "INACTIVE",
+            "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570674633": {
+            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
+            "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE"
+        },
+        "1570674634": {
+            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
