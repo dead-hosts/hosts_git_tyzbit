@@ -1,18 +1,18 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
         "ACTIVE": [
-            "statsfe1.ws.microsoft.com"
+            "corpext.msitadfs.glbdns2.microsoft.com",
+            "corp.sts.microsoft.com",
+            "i1.services.social.microsoft.com",
+            "pre.footprintpredict.com"
         ],
         "INACTIVE": [
-            "redir.metaservices.microsoft.com",
-            "services.wes.df.telemetry.microsoft.com",
-            "settings-sandbox.data.microsoft.com",
-            "sls.update.microsoft.com.akadns.net",
-            "sqm.df.telemetry.microsoft.com",
-            "sqm.telemetry.microsoft.com",
-            "sqm.telemetry.microsoft.com.nsatc.net",
-            "ssw.live.com",
-            "survey.watson.microsoft.com"
+            "telecommand.telemetry.microsoft.com",
+            "telemetry.urs.microsoft.com",
+            "vortex.data.microsoft.com",
+            "vortex-sandbox.data.microsoft.com",
+            "vortex-win.data.microsoft.com",
+            "watson.live.com"
         ]
     }
 }
