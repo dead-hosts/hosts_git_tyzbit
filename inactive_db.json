@@ -1,26 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1570660225": {
-            "ac3.msn.com": "INACTIVE"
-        },
-        "1570660356": {
-            "choice.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1570660618": {
-            "feedback.windows.com": "INACTIVE"
-        },
-        "1570665378": {
-            "sqm.df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570669718": {
-            "telecommand.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570674633": {
-            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1570674634": {
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
         "1570790380": {
             "services.wes.df.telemetry.microsoft.com": "INACTIVE"
         },
@@ -86,6 +65,21 @@
         },
         "1570800760": {
             "oca.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570804794": {
+            "choice.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570804925": {
+            "feedback.windows.com": "INACTIVE"
+        },
+        "1570805056": {
+            "ac3.msn.com": "INACTIVE"
+        },
+        "1570805057": {
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "sqm.df.telemetry.microsoft.com": "INACTIVE",
+            "telecommand.telemetry.microsoft.com": "INACTIVE",
+            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
