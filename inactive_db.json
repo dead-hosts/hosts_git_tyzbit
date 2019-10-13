@@ -1,36 +1,15 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1570790773": {
-            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
         "1570790904": {
             "sls.update.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1570791035": {
-            "sqm.telemetry.microsoft.com": "INACTIVE"
-        },
         "1570795257": {
-            "redir.metaservices.microsoft.com": "INACTIVE",
             "watson.ppe.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570795388": {
-            "telemetry.urs.microsoft.com": "INACTIVE"
         },
         "1570795519": {
             "survey.watson.microsoft.com": "INACTIVE"
         },
-        "1570795651": {
-            "diagnostics.support.microsoft.com": "INACTIVE",
-            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1570804925": {
-            "feedback.windows.com": "INACTIVE"
-        },
-        "1570805056": {
-            "ac3.msn.com": "INACTIVE"
-        },
         "1570805057": {
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
             "sqm.df.telemetry.microsoft.com": "INACTIVE"
         },
         "1570963652": {
@@ -76,6 +55,27 @@
         },
         "1570969376": {
             "oca.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570972623": {
+            "sqm.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1570972754": {
+            "feedback.windows.com": "INACTIVE",
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570972885": {
+            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570972886": {
+            "diagnostics.support.microsoft.com": "INACTIVE",
+            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570973016": {
+            "ac3.msn.com": "INACTIVE",
+            "redir.metaservices.microsoft.com": "INACTIVE"
+        },
+        "1570973147": {
+            "telemetry.urs.microsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
