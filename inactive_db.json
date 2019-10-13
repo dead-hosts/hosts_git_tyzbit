@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1570790904": {
-            "sls.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1570795257": {
-            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570795519": {
-            "survey.watson.microsoft.com": "INACTIVE"
-        },
-        "1570805057": {
-            "sqm.df.telemetry.microsoft.com": "INACTIVE"
-        },
         "1570963652": {
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         },
@@ -76,6 +64,16 @@
         },
         "1570973147": {
             "telemetry.urs.microsoft.com": "INACTIVE"
+        },
+        "1570977162": {
+            "sqm.df.telemetry.microsoft.com": "INACTIVE",
+            "survey.watson.microsoft.com": "INACTIVE"
+        },
+        "1570977293": {
+            "sls.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1570977424": {
+            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
