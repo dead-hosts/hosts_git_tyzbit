@@ -1,36 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1570963652": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1570963914": {
-            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "vortex.data.microsoft.com": "INACTIVE",
-            "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1570964176": {
-            "watson.microsoft.com": "INACTIVE"
-        },
         "1570968983": {
             "vortex-win.data.microsoft.com": "INACTIVE"
         },
-        "1570969114": {
-            "settings-sandbox.data.microsoft.com": "INACTIVE"
-        },
-        "1570969245": {
-            "cs1.wpc.v0cdn.net": "INACTIVE"
-        },
-        "1570969376": {
-            "oca.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1570972754": {
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
         "1570973016": {
             "ac3.msn.com": "INACTIVE"
-        },
-        "1570973147": {
-            "telemetry.urs.microsoft.com": "INACTIVE"
         },
         "1570977293": {
             "sls.update.microsoft.com.akadns.net": "INACTIVE"
@@ -82,6 +56,32 @@
         },
         "1571140240": {
             "watson.ppe.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571144099": {
+            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1571144100": {
+            "cs1.wpc.v0cdn.net": "INACTIVE"
+        },
+        "1571144229": {
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE",
+            "telemetry.urs.microsoft.com": "INACTIVE"
+        },
+        "1571144360": {
+            "vortex.data.microsoft.com": "INACTIVE"
+        },
+        "1571144491": {
+            "oca.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571144492": {
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1571144623": {
+            "watson.microsoft.com": "INACTIVE"
+        },
+        "1571144754": {
+            "settings-sandbox.data.microsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
