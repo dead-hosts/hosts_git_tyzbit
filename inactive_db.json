@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1571134402": {
-            "sqm.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1571134533": {
-            "watson.live.com": "INACTIVE"
-        },
-        "1571134664": {
-            "feedback.search.microsoft.com": "INACTIVE"
-        },
-        "1571144099": {
-            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1571144100": {
-            "cs1.wpc.v0cdn.net": "INACTIVE"
-        },
         "1571266849": {
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         },
@@ -80,6 +65,19 @@
         },
         "1571281870": {
             "watson.ppe.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571285243": {
+            "cs1.wpc.v0cdn.net": "INACTIVE",
+            "sqm.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1571285374": {
+            "watson.live.com": "INACTIVE"
+        },
+        "1571285375": {
+            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1571285505": {
+            "feedback.search.microsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
