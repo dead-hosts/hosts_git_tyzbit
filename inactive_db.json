@@ -1,84 +1,82 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1572515808": {
+        "1572688654": {
             "ac3.msn.com": "INACTIVE"
         },
-        "1572515814": {
+        "1572688660": {
             "choice.microsoft.com.nsatc.net": "INACTIVE",
             "compatexchange.cloudapp.net": "INACTIVE"
         },
-        "1572515815": {
+        "1572688661": {
             "cs1.wpc.v0cdn.net": "INACTIVE",
             "diagnostics.support.microsoft.com": "INACTIVE"
         },
-        "1572515821": {
+        "1572688667": {
             "feedback.search.microsoft.com": "INACTIVE"
         },
-        "1572515827": {
+        "1572688673": {
             "feedback.windows.com": "INACTIVE",
             "i1.services.social.microsoft.com.nsatc.net": "INACTIVE"
         },
-        "1572515833": {
-            "oca.telemetry.microsoft.com": "INACTIVE",
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        "1572688679": {
+            "oca.telemetry.microsoft.com": "INACTIVE"
         },
-        "1572515834": {
-            "redir.metaservices.microsoft.com": "INACTIVE"
-        },
-        "1572517013": {
+        "1572688680": {
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "redir.metaservices.microsoft.com": "INACTIVE",
             "services.wes.df.telemetry.microsoft.com": "INACTIVE"
         },
-        "1572517019": {
+        "1572688686": {
             "settings-sandbox.data.microsoft.com": "INACTIVE"
         },
-        "1572517025": {
-            "sls.update.microsoft.com.akadns.net": "INACTIVE",
+        "1572688692": {
+            "sls.update.microsoft.com.akadns.net": "INACTIVE"
+        },
+        "1572688698": {
             "sqm.df.telemetry.microsoft.com": "INACTIVE"
         },
-        "1572517031": {
+        "1572688704": {
             "sqm.telemetry.microsoft.com": "INACTIVE"
         },
-        "1572517037": {
+        "1572688711": {
             "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "ssw.live.com": "INACTIVE"
-        },
-        "1572517038": {
+            "ssw.live.com": "INACTIVE",
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1572517044": {
+        "1572688717": {
             "survey.watson.microsoft.com": "INACTIVE",
             "telecommand.telemetry.microsoft.com": "INACTIVE",
             "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         },
-        "1572517050": {
-            "telemetry.urs.microsoft.com": "INACTIVE",
-            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE"
+        "1572688723": {
+            "telemetry.urs.microsoft.com": "INACTIVE"
         },
-        "1572517051": {
+        "1572688724": {
+            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
             "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE"
         },
-        "1572517057": {
+        "1572688730": {
             "vortex.data.microsoft.com": "INACTIVE"
         },
-        "1572517063": {
+        "1572688736": {
             "vortex-sandbox.data.microsoft.com": "INACTIVE"
         },
-        "1572517069": {
+        "1572688742": {
             "vortex-win.data.microsoft.com": "INACTIVE"
         },
-        "1572517075": {
+        "1572688748": {
             "watson.live.com": "INACTIVE"
         },
-        "1572517081": {
+        "1572688754": {
             "watson.microsoft.com": "INACTIVE"
         },
-        "1572517087": {
+        "1572688760": {
             "watson.ppe.telemetry.microsoft.com": "INACTIVE"
         },
-        "1572517093": {
+        "1572688766": {
             "watson.telemetry.microsoft.com": "INACTIVE"
         },
-        "1572517094": {
+        "1572688767": {
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         }
     },
