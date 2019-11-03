@@ -1,43 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1572688654": {
-            "ac3.msn.com": "INACTIVE"
-        },
-        "1572688660": {
-            "choice.microsoft.com.nsatc.net": "INACTIVE",
-            "compatexchange.cloudapp.net": "INACTIVE"
-        },
-        "1572688661": {
-            "cs1.wpc.v0cdn.net": "INACTIVE",
-            "diagnostics.support.microsoft.com": "INACTIVE"
-        },
-        "1572688667": {
-            "feedback.search.microsoft.com": "INACTIVE"
-        },
-        "1572688673": {
-            "feedback.windows.com": "INACTIVE",
-            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1572688679": {
-            "oca.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1572688680": {
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "redir.metaservices.microsoft.com": "INACTIVE",
-            "services.wes.df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1572688686": {
-            "settings-sandbox.data.microsoft.com": "INACTIVE"
-        },
-        "1572688692": {
-            "sls.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1572688698": {
-            "sqm.df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1572688704": {
-            "sqm.telemetry.microsoft.com": "INACTIVE"
-        },
         "1572688711": {
             "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE",
             "ssw.live.com": "INACTIVE",
@@ -78,6 +40,42 @@
         },
         "1572688767": {
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1572775114": {
+            "ac3.msn.com": "INACTIVE"
+        },
+        "1572775120": {
+            "choice.microsoft.com.nsatc.net": "INACTIVE",
+            "compatexchange.cloudapp.net": "INACTIVE"
+        },
+        "1572775121": {
+            "cs1.wpc.v0cdn.net": "INACTIVE",
+            "diagnostics.support.microsoft.com": "INACTIVE"
+        },
+        "1572775127": {
+            "feedback.search.microsoft.com": "INACTIVE"
+        },
+        "1572775133": {
+            "feedback.windows.com": "INACTIVE",
+            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1572775139": {
+            "oca.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1572775140": {
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "redir.metaservices.microsoft.com": "INACTIVE",
+            "services.wes.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1572775146": {
+            "settings-sandbox.data.microsoft.com": "INACTIVE"
+        },
+        "1572775152": {
+            "sls.update.microsoft.com.akadns.net": "INACTIVE",
+            "sqm.df.telemetry.microsoft.com": "INACTIVE"
+        },
+        "1572775158": {
+            "sqm.telemetry.microsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/hosts.list": {
