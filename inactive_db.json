@@ -1,40 +1,40 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1574158441": {
+        "1574331075": {
             "choice.microsoft.com.nsatc.net": "INACTIVE"
         },
-        "1574158442": {
+        "1574331076": {
             "compatexchange.cloudapp.net": "INACTIVE"
         },
-        "1574158443": {
-            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE"
+        "1574331077": {
+            "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         },
-        "1574158444": {
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+        "1574331078": {
             "services.wes.df.telemetry.microsoft.com": "INACTIVE",
             "sqm.df.telemetry.microsoft.com": "INACTIVE"
         },
-        "1574158451": {
-            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+        "1574331085": {
+            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1574331086": {
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1574158457": {
+        "1574331092": {
             "survey.watson.microsoft.com": "INACTIVE"
         },
-        "1574158458": {
-            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE"
+        "1574331093": {
+            "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE"
         },
-        "1574158459": {
-            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
+        "1574331094": {
             "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE"
         },
-        "1574158465": {
+        "1574331100": {
             "watson.live.com": "INACTIVE"
         },
-        "1574158471": {
-            "watson.ppe.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1574158472": {
+        "1574331107": {
+            "watson.ppe.telemetry.microsoft.com": "INACTIVE",
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         }
     },
