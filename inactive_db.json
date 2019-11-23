@@ -1,39 +1,19 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1574331075": {
-            "choice.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1574331076": {
-            "compatexchange.cloudapp.net": "INACTIVE"
-        },
-        "1574331077": {
+        "1574504220": {
+            "choice.microsoft.com.nsatc.net": "INACTIVE",
+            "compatexchange.cloudapp.net": "INACTIVE",
             "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
-            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1574331078": {
+            "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
             "services.wes.df.telemetry.microsoft.com": "INACTIVE",
-            "sqm.df.telemetry.microsoft.com": "INACTIVE"
-        },
-        "1574331085": {
-            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE"
-        },
-        "1574331086": {
-            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE"
-        },
-        "1574331092": {
-            "survey.watson.microsoft.com": "INACTIVE"
-        },
-        "1574331093": {
+            "sqm.df.telemetry.microsoft.com": "INACTIVE",
+            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE",
+            "statsfe2.update.microsoft.com.akadns.net": "INACTIVE",
+            "survey.watson.microsoft.com": "INACTIVE",
             "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE"
-        },
-        "1574331094": {
-            "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE"
-        },
-        "1574331100": {
-            "watson.live.com": "INACTIVE"
-        },
-        "1574331107": {
+            "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
+            "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE",
+            "watson.live.com": "INACTIVE",
             "watson.ppe.telemetry.microsoft.com": "INACTIVE",
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         }
