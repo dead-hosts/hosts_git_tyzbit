@@ -1,20 +1,13 @@
 {
     "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
-        "1574504220": {
-            "choice.microsoft.com.nsatc.net": "INACTIVE",
+        "1574677727": {
             "compatexchange.cloudapp.net": "INACTIVE",
             "i1.services.social.microsoft.com.nsatc.net": "INACTIVE",
             "oca.telemetry.microsoft.com.nsatc.net": "INACTIVE",
-            "services.wes.df.telemetry.microsoft.com": "INACTIVE",
-            "sqm.df.telemetry.microsoft.com": "INACTIVE",
-            "sqm.telemetry.microsoft.com.nsatc.net": "INACTIVE",
             "statsfe2.update.microsoft.com.akadns.net": "INACTIVE",
-            "survey.watson.microsoft.com": "INACTIVE",
             "telecommand.telemetry.microsoft.com.nsatc.net": "INACTIVE",
             "vortex-bn2.metron.live.com.nsatc.net": "INACTIVE",
             "vortex-cy2.metron.live.com.nsatc.net": "INACTIVE",
-            "watson.live.com": "INACTIVE",
-            "watson.ppe.telemetry.microsoft.com": "INACTIVE",
             "watson.telemetry.microsoft.com.nsatc.net": "INACTIVE"
         }
     },
