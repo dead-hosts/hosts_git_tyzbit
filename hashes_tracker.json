@@ -1,0 +1,13 @@
+{
+    "/home/travis/build/dead-hosts/hosts_git_tyzbit/domains.list": {
+        "base": {
+            "datetime_iso": "2020-07-13T14:11:46.205001",
+            "hash": "9609e72861bf874fded92bb20edfc4f5eadd40760c5149fea693ab93"
+        },
+        "latest": {
+            "datetime_iso": "2020-07-13T14:11:46.205001",
+            "hash": "9609e72861bf874fded92bb20edfc4f5eadd40760c5149fea693ab93"
+        },
+        "position": 1191
+    }
+}
