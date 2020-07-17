@@ -3,57 +3,57 @@
         "compatexchange.cloudapp.net": {
             "included_at_epoch": 1594475993.59507,
             "included_at_iso": "2020-07-11T13:59:53.595070",
-            "last_retested_at_epoch": 1594822082.290368,
-            "last_retested_at_iso": "2020-07-15T14:08:02.290368",
+            "last_retested_at_epoch": 1594994644.682708,
+            "last_retested_at_iso": "2020-07-17T14:04:04.682708",
             "status": "INACTIVE"
         },
         "i1.services.social.microsoft.com.nsatc.net": {
             "included_at_epoch": 1594475993.603675,
             "included_at_iso": "2020-07-11T13:59:53.603675",
-            "last_retested_at_epoch": 1594822082.30068,
-            "last_retested_at_iso": "2020-07-15T14:08:02.300680",
+            "last_retested_at_epoch": 1594994644.694637,
+            "last_retested_at_iso": "2020-07-17T14:04:04.694637",
             "status": "INACTIVE"
         },
         "oca.telemetry.microsoft.com.nsatc.net": {
             "included_at_epoch": 1594475993.605005,
             "included_at_iso": "2020-07-11T13:59:53.605005",
-            "last_retested_at_epoch": 1594822082.302493,
-            "last_retested_at_iso": "2020-07-15T14:08:02.302493",
+            "last_retested_at_epoch": 1594994644.69649,
+            "last_retested_at_iso": "2020-07-17T14:04:04.696490",
             "status": "INACTIVE"
         },
         "statsfe2.update.microsoft.com.akadns.net": {
             "included_at_epoch": 1594475993.615507,
             "included_at_iso": "2020-07-11T13:59:53.615507",
-            "last_retested_at_epoch": 1594822082.316651,
-            "last_retested_at_iso": "2020-07-15T14:08:02.316651",
+            "last_retested_at_epoch": 1594994644.708925,
+            "last_retested_at_iso": "2020-07-17T14:04:04.708925",
             "status": "INACTIVE"
         },
         "telecommand.telemetry.microsoft.com.nsatc.net": {
             "included_at_epoch": 1594475993.617603,
             "included_at_iso": "2020-07-11T13:59:53.617603",
-            "last_retested_at_epoch": 1594822082.319188,
-            "last_retested_at_iso": "2020-07-15T14:08:02.319188",
+            "last_retested_at_epoch": 1594994644.711228,
+            "last_retested_at_iso": "2020-07-17T14:04:04.711228",
             "status": "INACTIVE"
         },
         "vortex-bn2.metron.live.com.nsatc.net": {
             "included_at_epoch": 1594475993.619673,
             "included_at_iso": "2020-07-11T13:59:53.619673",
-            "last_retested_at_epoch": 1594822082.321896,
-            "last_retested_at_iso": "2020-07-15T14:08:02.321896",
+            "last_retested_at_epoch": 1594994644.713556,
+            "last_retested_at_iso": "2020-07-17T14:04:04.713556",
             "status": "INACTIVE"
         },
         "vortex-cy2.metron.live.com.nsatc.net": {
             "included_at_epoch": 1594475993.62169,
             "included_at_iso": "2020-07-11T13:59:53.621690",
-            "last_retested_at_epoch": 1594822082.324803,
-            "last_retested_at_iso": "2020-07-15T14:08:02.324803",
+            "last_retested_at_epoch": 1594994644.715856,
+            "last_retested_at_iso": "2020-07-17T14:04:04.715856",
             "status": "INACTIVE"
         },
         "watson.telemetry.microsoft.com.nsatc.net": {
             "included_at_epoch": 1594475993.62948,
             "included_at_iso": "2020-07-11T13:59:53.629480",
-            "last_retested_at_epoch": 1594822083.106245,
-            "last_retested_at_iso": "2020-07-15T14:08:03.106245",
+            "last_retested_at_epoch": 1594994645.539446,
+            "last_retested_at_iso": "2020-07-17T14:04:05.539446",
             "status": "INACTIVE"
         }
     },
