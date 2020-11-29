@@ -22,10 +22,10 @@
             "status": "ACTIVE"
         },
         "compatexchange.cloudapp.net": {
-            "included_at_epoch": 1604242662.17684,
-            "included_at_iso": "2020-11-01T14:57:42.176840",
-            "last_retested_at_epoch": 1606491790.862113,
-            "last_retested_at_iso": "2020-11-27T15:43:10.862113",
+            "included_at_epoch": 1606662732.841639,
+            "included_at_iso": "2020-11-29T15:12:12.841639",
+            "last_retested_at_epoch": 1606662732.841639,
+            "last_retested_at_iso": "2020-11-29T15:12:12.841639",
             "status": "INACTIVE"
         },
         "corp.sts.microsoft.com": {
@@ -78,10 +78,10 @@
             "status": "ACTIVE"
         },
         "i1.services.social.microsoft.com.nsatc.net": {
-            "included_at_epoch": 1604242662.179614,
-            "included_at_iso": "2020-11-01T14:57:42.179614",
-            "last_retested_at_epoch": 1606491790.879425,
-            "last_retested_at_iso": "2020-11-27T15:43:10.879425",
+            "included_at_epoch": 1606662732.844141,
+            "included_at_iso": "2020-11-29T15:12:12.844141",
+            "last_retested_at_epoch": 1606662732.844141,
+            "last_retested_at_iso": "2020-11-29T15:12:12.844141",
             "status": "INACTIVE"
         },
         "oca.telemetry.microsoft.com": {
@@ -92,10 +92,10 @@
             "status": "ACTIVE"
         },
         "oca.telemetry.microsoft.com.nsatc.net": {
-            "included_at_epoch": 1604242662.181475,
-            "included_at_iso": "2020-11-01T14:57:42.181475",
-            "last_retested_at_epoch": 1606491790.881167,
-            "last_retested_at_iso": "2020-11-27T15:43:10.881167",
+            "included_at_epoch": 1606662732.846117,
+            "included_at_iso": "2020-11-29T15:12:12.846117",
+            "last_retested_at_epoch": 1606662732.846117,
+            "last_retested_at_iso": "2020-11-29T15:12:12.846117",
             "status": "INACTIVE"
         },
         "pre.footprintpredict.com": {
@@ -169,10 +169,10 @@
             "status": "ACTIVE"
         },
         "statsfe2.update.microsoft.com.akadns.net": {
-            "included_at_epoch": 1604242662.183392,
-            "included_at_iso": "2020-11-01T14:57:42.183392",
-            "last_retested_at_epoch": 1606491790.906522,
-            "last_retested_at_iso": "2020-11-27T15:43:10.906522",
+            "included_at_epoch": 1606662732.848084,
+            "included_at_iso": "2020-11-29T15:12:12.848084",
+            "last_retested_at_epoch": 1606662732.848084,
+            "last_retested_at_iso": "2020-11-29T15:12:12.848084",
             "status": "INACTIVE"
         },
         "survey.watson.microsoft.com": {
@@ -190,10 +190,10 @@
             "status": "ACTIVE"
         },
         "telecommand.telemetry.microsoft.com.nsatc.net": {
-            "included_at_epoch": 1604242662.185243,
-            "included_at_iso": "2020-11-01T14:57:42.185243",
-            "last_retested_at_epoch": 1606491790.910264,
-            "last_retested_at_iso": "2020-11-27T15:43:10.910264",
+            "included_at_epoch": 1606662732.850061,
+            "included_at_iso": "2020-11-29T15:12:12.850061",
+            "last_retested_at_epoch": 1606662732.850061,
+            "last_retested_at_iso": "2020-11-29T15:12:12.850061",
             "status": "INACTIVE"
         },
         "telemetry.urs.microsoft.com": {
@@ -204,17 +204,17 @@
             "status": "ACTIVE"
         },
         "vortex-bn2.metron.live.com.nsatc.net": {
-            "included_at_epoch": 1604242662.189133,
-            "included_at_iso": "2020-11-01T14:57:42.189133",
-            "last_retested_at_epoch": 1606491790.91403,
-            "last_retested_at_iso": "2020-11-27T15:43:10.914030",
+            "included_at_epoch": 1606662732.851981,
+            "included_at_iso": "2020-11-29T15:12:12.851981",
+            "last_retested_at_epoch": 1606662732.851981,
+            "last_retested_at_iso": "2020-11-29T15:12:12.851981",
             "status": "INACTIVE"
         },
         "vortex-cy2.metron.live.com.nsatc.net": {
-            "included_at_epoch": 1604242662.187262,
-            "included_at_iso": "2020-11-01T14:57:42.187262",
-            "last_retested_at_epoch": 1606491790.917712,
-            "last_retested_at_iso": "2020-11-27T15:43:10.917712",
+            "included_at_epoch": 1606662732.854004,
+            "included_at_iso": "2020-11-29T15:12:12.854004",
+            "last_retested_at_epoch": 1606662732.854004,
+            "last_retested_at_iso": "2020-11-29T15:12:12.854004",
             "status": "INACTIVE"
         },
         "vortex-sandbox.data.microsoft.com": {
