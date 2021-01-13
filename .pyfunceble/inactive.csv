@@ -1,0 +1,10 @@
+idna_subject,checker_type,destination,source,tested_at
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:38:56.923290
+corp.sts.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:39:03.210437
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:39:33.411636
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:39:43.753381
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:40:31.768593
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:40:47.959101
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:40:58.835461
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:41:04.880253
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-13 20:41:40.164007
