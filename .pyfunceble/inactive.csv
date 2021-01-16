@@ -1,10 +1,10 @@
 idna_subject,checker_type,destination,source,tested_at
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-15 01:24:05.812005
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-15 01:24:16.022910
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-15 01:24:25.816097
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-15 01:24:35.368890
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-15 01:24:45.075772
 compatexchange.cloudapp.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:07.220983
 corp.sts.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:16.748183
 i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:26.514837
 oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:36.430590
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:51:39.128457
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:51:49.016664
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:51:58.406622
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:52:08.132423
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:52:18.156752
