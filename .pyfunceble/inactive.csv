@@ -1,10 +1,10 @@
-idna_subject,checker_type,destination,source,tested_at
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:07.220983
-corp.sts.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:16.748183
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:26.514837
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 01:25:36.430590
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:51:39.128457
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:51:49.016664
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:51:58.406622
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:52:08.132423
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,/home/runner/work/hosts_git_tyzbit/hosts_git_tyzbit/origin.list,2021-01-16 04:52:18.156752
+idna_subject,checker_type,destination,tested_at
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2021-04-01 16:47:14.926122
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2021-04-01 16:47:21.109387
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-04-01 16:47:28.056784
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-04-01 16:47:35.005253
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-04-01 16:47:41.553586
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-04-01 16:47:48.010548
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2021-04-01 16:47:53.962753
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2021-04-01 16:48:00.045519
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-04-01 16:48:06.466844
