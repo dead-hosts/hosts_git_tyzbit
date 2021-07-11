@@ -1,10 +1,10 @@
 idna_subject,checker_type,destination,tested_at
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2021-07-10 17:11:20.335721
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2021-07-10 17:11:27.299090
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-10 17:11:34.157786
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-10 17:11:40.864882
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-07-10 17:11:47.233030
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-10 17:11:54.299539
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2021-07-10 17:11:59.998451
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2021-07-10 17:12:06.259388
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-10 17:12:13.485704
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2021-07-11 20:53:08.205424
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2021-07-11 20:53:14.872015
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-11 20:53:22.005249
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-11 20:53:29.055771
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-07-11 20:53:35.692362
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-11 20:53:42.547017
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2021-07-11 20:53:48.474667
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2021-07-11 20:53:54.805403
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2021-07-11 20:54:01.809855
