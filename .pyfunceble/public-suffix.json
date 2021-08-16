@@ -2854,7 +2854,6 @@
         "echizen.fukui.jp",
         "ed.jp",
         "edogawa.tokyo.jp",
-        "edu.la",
         "ehime.jp",
         "eiheiji.fukui.jp",
         "embetsu.hokkaido.jp",
@@ -5581,7 +5580,6 @@
         "name.na",
         "or.na",
         "org.na",
-        "pro.na",
         "school.na",
         "tv.na",
         "us.na",
@@ -6782,7 +6780,8 @@
         "gov.nr",
         "info.nr",
         "net.nr",
-        "org.nr"
+        "org.nr",
+        "pro.na"
     ],
     "nu": [
         "enterprisecloud.nu",
