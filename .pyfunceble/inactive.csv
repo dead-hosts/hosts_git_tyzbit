@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2022-03-20 05:10:07.095716
 compatexchange.cloudapp.net,AVAILABILITY,origin.list,2022-03-20 05:10:08.804087
 vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2022-03-20 05:10:09.175290
 statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2022-03-20 05:10:09.480549
@@ -8,3 +7,4 @@ oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2022-03-20 05:10:
 watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2022-03-20 05:10:12.244324
 telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2022-03-20 05:10:12.452056
 vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2022-03-20 05:10:12.648607
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2022-03-21 05:10:59.934363
