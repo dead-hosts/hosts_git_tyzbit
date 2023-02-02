@@ -1,11 +1,11 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-01-31 05:14:23.038097
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-01-31 05:14:23.053436
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-01-31 05:14:23.203762
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-01-31 05:14:23.571635
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-01-31 05:14:23.680965
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-01-31 05:14:23.755349
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-01-31 05:14:24.083669
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-01-31 05:14:24.222717
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-01-31 05:14:24.390621
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-01-31 05:14:24.785098
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-02 05:11:19.714869
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-02 05:11:19.809815
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-02 05:11:20.003716
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-02 05:11:20.329270
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-02 05:11:20.457063
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-02 05:11:20.711385
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-02 05:11:20.841132
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-02 05:11:21.003549
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-02 05:11:21.222548
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-02 05:11:21.338412
