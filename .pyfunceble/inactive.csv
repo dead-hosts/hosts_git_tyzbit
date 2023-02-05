@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-04 05:10:26.145569
 vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:49.175082
 vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:49.202914
 corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-04 05:10:49.517151
@@ -10,3 +9,4 @@ statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-04 05:
 telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:51.890196
 watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:52.316455
 oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:52.490211
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-05 05:11:06.525740
