@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:49.175082
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:49.202914
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-04 05:10:49.517151
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-04 05:10:50.489396
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:50.516349
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-04 05:10:51.180428
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-04 05:10:51.025805
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:51.890196
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:52.316455
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-04 05:10:52.490211
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-05 05:11:06.525740
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:50.904546
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:50.916592
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-06 05:11:51.136208
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-06 05:11:51.471662
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:51.588945
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-06 05:11:51.704348
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.122844
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.271731
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.501301
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.909236
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:53.068778
