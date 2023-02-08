@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:50.904546
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:50.916592
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-06 05:11:51.136208
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-06 05:11:51.471662
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:51.588945
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-06 05:11:51.704348
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.122844
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.271731
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.501301
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-06 05:11:52.909236
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-06 05:11:53.068778
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-08 05:11:41.203755
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-08 05:11:41.230870
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-08 05:11:41.384087
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-08 05:11:41.760581
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-08 05:11:41.810879
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-08 05:11:41.927173
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-08 05:11:42.614483
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-08 05:11:42.791542
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-08 05:11:43.489252
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-08 05:11:43.616092
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-08 05:11:44.274891
