@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-10 05:11:32.536295
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-10 05:11:32.733519
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-10 05:11:32.879854
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-10 05:11:33.102556
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-10 05:11:33.303118
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-10 05:11:33.418685
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-10 05:11:33.768038
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-10 05:11:34.076142
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-10 05:11:34.142352
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-10 05:11:34.581603
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-10 05:11:34.798292
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-12 05:11:19.573229
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-12 05:11:19.577837
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-12 05:11:19.795588
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-12 05:11:20.153407
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-12 05:11:20.269448
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-12 05:11:20.314360
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-12 05:11:20.729709
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-12 05:11:20.772491
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-12 05:11:20.889282
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-12 05:11:21.405806
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-12 05:11:21.532015
