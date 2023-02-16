@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-14 05:11:43.144725
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-14 05:11:43.256176
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-14 05:11:43.371296
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-14 05:11:43.741041
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-14 05:11:43.868559
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-14 05:11:43.953398
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-14 05:11:44.265671
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-14 05:11:44.512003
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-14 05:11:44.640042
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-14 05:11:44.898791
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-14 05:11:45.245775
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-16 05:11:08.960375
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-16 05:11:09.072988
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-16 05:11:09.450049
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-16 05:11:09.528767
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-16 05:11:09.637579
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-16 05:11:10.135721
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-16 05:11:10.351675
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-16 05:11:10.354234
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-16 05:11:10.768434
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-16 05:11:10.922148
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-16 05:11:11.135433
