@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-18 05:10:49.846325
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-18 05:10:49.879841
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-18 05:10:50.151385
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-18 05:10:50.409157
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-18 05:10:50.410352
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-18 05:10:50.796276
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-18 05:10:50.965803
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-18 05:10:51.033163
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-18 05:10:51.336104
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-18 05:10:51.499145
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-18 05:10:51.589390
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-20 05:11:35.836131
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-20 05:11:35.878640
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-20 05:11:36.084641
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-20 05:11:36.347534
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-20 05:11:36.426393
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-20 05:11:36.639393
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-20 05:11:36.995799
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-20 05:11:37.008866
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-20 05:11:37.260899
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-20 05:11:37.606971
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-20 05:11:37.793105
