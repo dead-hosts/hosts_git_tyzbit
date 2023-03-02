@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-28 05:11:32.924163
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-02-28 05:11:33.086985
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-02-28 05:11:33.348808
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-02-28 05:11:33.615979
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-28 05:11:33.925923
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-28 05:11:34.115467
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-02-28 05:11:33.775854
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-28 05:11:34.598206
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-28 05:11:34.665648
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-02-28 05:11:34.930391
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-02-28 05:11:35.159433
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-02 05:12:03.594871
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-02 05:12:03.751461
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-02 05:12:03.856051
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-02 05:12:04.207089
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-02 05:12:04.393472
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-02 05:12:04.436495
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-02 05:12:04.703264
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-02 05:12:05.012453
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-02 05:12:05.108252
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-02 05:12:05.570489
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-02 05:12:05.685803
