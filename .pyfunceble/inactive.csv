@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-06 05:11:43.074880
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-06 05:11:43.189813
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-06 05:11:43.375948
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-06 05:11:43.640806
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-06 05:11:43.702020
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-06 05:11:43.910022
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-06 05:11:44.250282
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-06 05:11:44.283651
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-06 05:11:44.495971
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-06 05:11:44.827964
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-06 05:11:45.058379
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-08 05:11:28.895798
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-08 05:11:28.816725
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-08 05:11:29.306483
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-08 05:11:29.690278
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-08 05:11:29.968987
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-08 05:11:30.599186
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-08 05:11:31.037380
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-08 05:11:31.702300
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-08 05:11:31.769784
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-08 05:11:32.130319
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-08 05:11:33.229236
