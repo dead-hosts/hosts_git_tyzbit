@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-12 05:10:31.457293
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-12 05:10:31.503296
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-12 05:10:31.576639
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-12 05:10:31.959931
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-12 05:10:32.108804
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-12 05:10:32.260262
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-12 05:10:32.486234
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-12 05:10:32.844839
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-12 05:10:33.310371
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-12 05:10:33.334382
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-12 05:10:33.929766
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:44.879663
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:45.011737
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-14 05:10:45.164446
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-14 05:10:45.423974
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-14 05:10:45.617773
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:45.759513
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.115593
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.233291
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.434428
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.924068
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-14 05:10:47.024050
