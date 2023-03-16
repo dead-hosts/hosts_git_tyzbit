@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:44.879663
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:45.011737
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-14 05:10:45.164446
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-14 05:10:45.423974
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-14 05:10:45.617773
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:45.759513
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.115593
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.233291
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.434428
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-14 05:10:46.924068
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-14 05:10:47.024050
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-16 05:11:14.156912
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-16 05:11:14.223300
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-16 05:11:14.370031
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-16 05:11:14.678663
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-16 05:11:14.815344
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-16 05:11:14.989951
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-16 05:11:15.316568
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-16 05:11:15.421754
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-16 05:11:15.534007
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-16 05:11:16.041745
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-16 05:11:16.053080
