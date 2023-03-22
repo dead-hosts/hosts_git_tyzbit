@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-20 05:11:29.093153
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-20 05:11:29.126032
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-20 05:11:29.328514
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-20 05:11:29.600984
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-20 05:11:29.662124
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-20 05:11:29.972078
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-20 05:11:30.178402
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-20 05:11:30.187683
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-20 05:11:30.605194
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-20 05:11:30.957838
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-20 05:11:31.095518
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:09.768791
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:09.872373
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-22 05:11:10.012406
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-22 05:11:10.301591
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-22 05:11:10.439942
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:10.579370
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:10.885180
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.096234
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.102671
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.508333
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.792288
