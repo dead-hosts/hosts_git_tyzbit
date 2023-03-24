@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:09.768791
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:09.872373
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-22 05:11:10.012406
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-22 05:11:10.301591
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-22 05:11:10.439942
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:10.579370
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:10.885180
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.096234
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.102671
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.508333
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-22 05:11:11.792288
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-24 05:10:39.466242
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-03-24 05:10:39.468658
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-03-24 05:10:39.988551
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-03-24 05:10:40.026726
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-03-24 05:10:40.585213
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-24 05:10:40.607443
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-24 05:10:40.796413
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-24 05:10:41.184840
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-03-24 05:10:41.259129
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-24 05:10:41.591978
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-24 05:10:41.786118
