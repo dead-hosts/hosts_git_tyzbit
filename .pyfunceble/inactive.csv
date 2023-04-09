@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-07 05:11:05.546459
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-07 05:11:05.658083
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-04-07 05:11:05.946421
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-04-07 05:11:05.907103
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-07 05:11:06.181988
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-07 05:11:06.428123
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-04-07 05:11:06.436232
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-07 05:11:06.608401
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-07 05:11:06.863271
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-07 05:11:06.935042
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-07 05:11:07.018647
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-04-09 05:09:38.980925
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-04-09 05:09:39.509165
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-09 05:09:39.363066
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-09 05:09:39.492912
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-09 05:09:40.721722
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-09 05:09:41.076327
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-04-09 05:09:41.261077
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-09 05:09:42.360715
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-09 05:09:42.884995
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-09 05:09:43.599878
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-09 05:09:45.518444
