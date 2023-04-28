@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-26 05:10:10.726919
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-04-26 05:10:10.946440
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-04-26 05:10:11.101835
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-26 05:10:11.152024
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-04-26 05:10:11.512202
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-26 05:10:11.738146
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-26 05:10:11.836988
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-26 05:10:12.105843
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-26 05:10:12.397323
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-26 05:10:12.650545
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-26 05:10:12.941014
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:35.596037
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-04-28 05:10:35.746031
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-04-28 05:10:35.832006
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.071837
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.295521
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.482934
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.675111
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.808349
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:37.050861
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-28 05:10:37.494863
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-28 05:10:37.524654
