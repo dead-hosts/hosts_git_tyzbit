@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:35.596037
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-04-28 05:10:35.746031
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-04-28 05:10:35.832006
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.071837
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.295521
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.482934
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.675111
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:36.808349
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-28 05:10:37.050861
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-28 05:10:37.494863
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-28 05:10:37.524654
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-30 05:09:34.618463
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-04-30 05:09:34.751408
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-04-30 05:09:34.798743
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-04-30 05:09:35.050587
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-04-30 05:09:35.210917
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-30 05:09:35.237655
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-30 05:09:35.572928
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-30 05:09:35.692095
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-04-30 05:09:35.750668
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-30 05:09:36.025904
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-30 05:09:36.279531
