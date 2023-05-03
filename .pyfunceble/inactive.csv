@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-01 05:10:54.610142
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-01 05:10:54.775168
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-01 05:10:55.014996
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-01 05:10:54.770279
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-01 05:10:55.214371
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-01 05:10:55.584814
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-01 05:10:55.594120
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-01 05:10:55.675899
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-01 05:10:56.058504
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-01 05:10:56.073880
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-01 05:10:56.270151
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-03 05:10:27.617612
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-03 05:10:27.696985
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-03 05:10:28.064540
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-03 05:10:28.236165
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-03 05:10:28.597812
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-03 05:10:29.005981
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-03 05:10:29.143128
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-03 05:10:29.648527
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-03 05:10:30.190459
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-03 05:10:30.194999
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-03 05:10:30.851408
