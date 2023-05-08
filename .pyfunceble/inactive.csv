@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-07 05:10:05.305647
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-07 05:10:05.655847
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-07 05:10:05.745836
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-07 05:10:05.935642
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-07 05:10:06.337663
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-07 05:10:06.437926
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-07 05:10:06.624159
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-07 05:10:07.314810
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-07 05:10:07.314513
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-07 05:10:07.382466
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-07 05:10:07.873619
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-08 05:11:47.987939
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-08 05:11:48.093893
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-08 05:11:48.554487
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-08 05:11:48.638499
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-08 05:11:48.605832
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-08 05:11:49.344509
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-08 05:11:49.365969
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-08 05:11:49.409746
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-08 05:11:49.945098
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-08 05:11:50.058504
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-08 05:11:50.125265
