@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-17 05:10:02.756655
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-17 05:10:02.940113
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-17 05:10:02.987941
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-17 05:10:03.216189
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-17 05:10:03.362476
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-17 05:10:03.567550
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-17 05:10:03.865852
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-17 05:10:04.009793
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-17 05:10:04.096760
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-17 05:10:04.559679
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-17 05:10:04.575615
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-18 05:11:07.667262
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-18 05:11:07.819528
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-18 05:11:07.834039
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-18 05:11:08.109909
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-18 05:11:08.215322
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-18 05:11:08.259853
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-18 05:11:08.539052
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-18 05:11:08.775867
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-18 05:11:08.960442
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-18 05:11:09.189388
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-18 05:11:09.280809
