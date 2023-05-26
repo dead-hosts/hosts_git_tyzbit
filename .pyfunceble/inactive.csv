@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-24 05:10:27.195393
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-24 05:10:27.226925
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-24 05:10:27.453701
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-24 05:10:27.701795
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-24 05:10:27.759953
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-24 05:10:28.012906
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-24 05:10:28.332469
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-24 05:10:28.442343
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-24 05:10:28.721807
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-24 05:10:28.961634
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-24 05:10:29.183978
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-26 05:10:12.206835
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-26 05:10:12.308838
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-26 05:10:12.455036
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-26 05:10:12.724599
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-26 05:10:12.882539
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-26 05:10:13.061515
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-26 05:10:13.592948
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-26 05:10:13.642743
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-26 05:10:13.730669
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-26 05:10:14.342884
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-26 05:10:14.413506
