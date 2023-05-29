@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-28 05:09:07.581344
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-28 05:09:07.679884
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-28 05:09:07.845648
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-28 05:09:08.185394
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-28 05:09:08.297495
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-28 05:09:08.473691
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-28 05:09:08.901135
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-28 05:09:09.099504
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-28 05:09:09.385576
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-28 05:09:09.629185
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-28 05:09:09.839286
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:16.047571
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:16.158666
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-29 05:10:16.279331
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-29 05:10:16.871952
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-29 05:10:16.939154
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:17.248304
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-29 05:10:17.672596
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:17.948891
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-29 05:10:18.160375
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:18.410302
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:18.645600
