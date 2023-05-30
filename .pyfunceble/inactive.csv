@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:16.047571
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:16.158666
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-29 05:10:16.279331
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-29 05:10:16.871952
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-29 05:10:16.939154
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:17.248304
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-29 05:10:17.672596
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:17.948891
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-29 05:10:18.160375
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:18.410302
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-29 05:10:18.645600
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-30 05:11:19.599631
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-05-30 05:11:19.634210
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-05-30 05:11:19.719682
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-05-30 05:11:20.314915
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-05-30 05:11:20.363191
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-30 05:11:20.476350
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-30 05:11:21.080201
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-30 05:11:21.382657
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-05-30 05:11:21.423010
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-30 05:11:21.693590
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-05-30 05:11:21.993919
