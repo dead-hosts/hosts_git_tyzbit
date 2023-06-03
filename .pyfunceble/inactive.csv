@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-01 05:10:00.401582
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-01 05:10:00.705868
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-01 05:10:00.773278
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-01 05:10:01.211245
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-01 05:10:01.713957
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-01 05:10:01.845976
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-01 05:10:02.104262
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-01 05:10:02.699264
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-01 05:10:02.895866
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-01 05:10:03.154753
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-01 05:10:03.530540
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:09:59.360721
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:09:59.379775
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-03 05:09:59.501337
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-03 05:09:59.989785
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-03 05:09:59.998147
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.122202
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.622461
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.667435
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.754316
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:01.233052
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:01.605913
