@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:09:59.360721
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:09:59.379775
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-03 05:09:59.501337
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-03 05:09:59.989785
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-03 05:09:59.998147
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.122202
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.622461
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.667435
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-03 05:10:00.754316
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:01.233052
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-03 05:10:01.605913
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-05 05:09:55.398896
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-05 05:09:55.676519
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-05 05:09:55.931958
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-05 05:09:56.144810
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-05 05:09:56.521377
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-05 05:09:56.918492
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-05 05:09:56.919714
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-05 05:09:57.583554
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-05 05:09:57.944714
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-05 05:09:58.097176
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-05 05:09:58.550637
