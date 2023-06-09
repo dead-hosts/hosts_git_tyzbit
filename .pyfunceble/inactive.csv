@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-07 05:09:54.033590
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-07 05:09:55.051804
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-07 05:09:55.071989
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-07 05:09:55.128934
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-07 05:09:56.164566
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-07 05:09:56.446022
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-07 05:09:56.471395
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-07 05:09:57.255081
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-07 05:09:57.364610
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-07 05:09:57.539958
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-07 05:09:58.025386
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:11.652287
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-09 05:10:11.925291
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:11.995900
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-09 05:10:13.090963
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-09 05:10:13.360641
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-09 05:10:13.580556
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:14.675828
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:14.874115
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-09 05:10:15.803744
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:16.103828
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:16.182722
