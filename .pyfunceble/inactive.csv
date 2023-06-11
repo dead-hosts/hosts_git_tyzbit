@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:11.652287
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-09 05:10:11.925291
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:11.995900
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-09 05:10:13.090963
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-09 05:10:13.360641
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-09 05:10:13.580556
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:14.675828
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:14.874115
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-09 05:10:15.803744
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:16.103828
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-09 05:10:16.182722
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-11 05:09:08.553871
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:08.707640
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:08.897965
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-11 05:09:09.442524
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-11 05:09:09.444938
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-11 05:09:09.590706
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:10.498556
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-11 05:09:10.617444
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:10.680459
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:11.366412
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:11.782199
