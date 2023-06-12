@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-11 05:09:08.553871
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:08.707640
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:08.897965
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-11 05:09:09.442524
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-11 05:09:09.444938
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-11 05:09:09.590706
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:10.498556
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-11 05:09:10.617444
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:10.680459
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:11.366412
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-11 05:09:11.782199
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-12 05:10:33.637300
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-12 05:10:33.643664
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-12 05:10:34.163962
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-12 05:10:34.546798
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-12 05:10:34.915254
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-12 05:10:35.133618
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-12 05:10:35.596128
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-12 05:10:36.047158
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-12 05:10:36.111824
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-12 05:10:36.495571
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-12 05:10:37.196756
