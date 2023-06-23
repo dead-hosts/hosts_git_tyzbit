@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-21 05:10:58.324675
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-21 05:10:58.408003
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-21 05:10:58.805629
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-21 05:10:59.421081
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-22 05:09:55.476124
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-22 05:09:55.878715
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-22 05:09:56.169418
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-22 05:09:57.098819
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-22 05:09:57.310201
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-22 05:09:57.648110
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-22 05:09:58.331002
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-23 05:10:57.405551
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-23 05:10:57.666201
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-23 05:10:58.102386
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-23 05:10:58.816993
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-23 05:10:59.163497
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-23 05:10:59.223152
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-23 05:10:59.886227
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-23 05:11:00.065749
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-23 05:11:00.404444
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-23 05:11:01.100062
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-23 05:11:01.416739
