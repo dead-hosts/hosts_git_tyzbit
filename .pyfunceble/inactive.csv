@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-25 05:10:59.177454
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-25 05:11:00.134916
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-25 05:11:00.456834
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-25 05:11:01.038371
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-25 05:11:02.090551
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-25 05:11:03.001609
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-25 05:11:03.423067
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-25 05:11:04.407646
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-25 05:11:05.572538
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-25 05:11:05.758718
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-25 05:11:06.772086
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-27 05:11:09.239474
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-06-27 05:11:09.937257
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-06-27 05:11:09.952975
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-06-27 05:11:10.521768
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-06-27 05:11:11.058759
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-27 05:11:12.401913
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-27 05:11:12.679135
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-27 05:11:13.854261
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-27 05:11:14.531310
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-27 05:11:14.568163
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-06-27 05:11:15.488971
