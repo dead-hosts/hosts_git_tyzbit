@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-01 05:10:32.192161
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-01 05:10:32.474059
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-01 05:10:32.484917
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-01 05:10:34.057134
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-01 05:10:34.076465
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-01 05:10:34.284441
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-01 05:10:35.118010
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-01 05:10:35.302014
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-01 05:10:35.378874
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-01 05:10:36.427820
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-01 05:10:36.785443
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:02.023349
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-03 05:11:02.348284
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:02.353609
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:02.815131
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-03 05:11:03.131738
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-03 05:11:03.444830
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-03 05:11:03.800198
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:03.907426
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:04.146442
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-03 05:11:05.024118
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:05.239977
