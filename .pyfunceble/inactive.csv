@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:02.023349
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-03 05:11:02.348284
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:02.353609
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:02.815131
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-03 05:11:03.131738
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-03 05:11:03.444830
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-03 05:11:03.800198
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:03.907426
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:04.146442
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-03 05:11:05.024118
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-03 05:11:05.239977
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-05 05:11:30.592964
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-05 05:11:30.677647
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-05 05:11:31.191996
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-05 05:11:31.409373
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-05 05:11:31.931539
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-05 05:11:32.144005
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-05 05:11:32.815498
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-05 05:11:33.011388
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-05 05:11:33.544880
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-05 05:11:33.693426
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-05 05:11:34.026942
