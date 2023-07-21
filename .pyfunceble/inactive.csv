@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-19 05:09:51.379992
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-19 05:09:51.645008
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-19 05:09:51.666093
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-19 05:09:51.975527
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-19 05:09:52.264671
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-19 05:09:52.298760
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-19 05:09:52.756756
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-19 05:09:52.897946
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-19 05:09:52.963343
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-19 05:09:53.567088
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-19 05:09:53.735977
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-21 05:09:45.000695
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.305678
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.328554
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-21 05:09:45.508644
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.872717
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.935829
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.090774
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.475003
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.601550
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.653938
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:47.197907
