@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-21 05:09:45.000695
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.305678
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.328554
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-21 05:09:45.508644
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.872717
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:45.935829
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.090774
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.475003
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.601550
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:46.653938
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-21 05:09:47.197907
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-23 05:09:43.234577
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-23 05:09:43.420351
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-23 05:09:43.556789
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-23 05:09:43.891042
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-23 05:09:44.017936
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-23 05:09:44.376607
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-23 05:09:44.547710
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-23 05:09:44.710617
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-23 05:09:45.255379
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-23 05:09:45.444362
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-23 05:09:45.564260
