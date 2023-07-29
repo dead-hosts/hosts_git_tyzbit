@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-27 05:09:38.312035
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-27 05:09:38.648955
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-27 05:09:38.933423
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-27 05:09:39.267210
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-27 05:09:39.472196
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-27 05:09:39.959738
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-27 05:09:40.007828
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-27 05:09:40.043670
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-27 05:09:40.670234
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-27 05:09:40.750591
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-27 05:09:40.855139
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-29 05:09:07.092364
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-07-29 05:09:07.168287
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-07-29 05:09:07.203543
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-07-29 05:09:07.573835
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-29 05:09:07.622647
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-29 05:09:07.661541
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-07-29 05:09:08.068202
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-29 05:09:08.141660
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-07-29 05:09:08.192043
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-29 05:09:08.516620
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-07-29 05:09:08.712438
