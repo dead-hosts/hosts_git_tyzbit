@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-08-23 05:08:53.534911
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-08-23 05:08:53.573377
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-08-23 05:08:53.651897
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-08-23 05:08:53.978663
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-08-23 05:08:54.033449
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-08-23 05:08:54.071126
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-08-23 05:08:54.420437
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-23 05:08:54.452062
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-23 05:08:54.497567
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-23 05:08:54.850186
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-23 05:08:54.867701
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-08-25 05:09:09.184389
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-08-25 05:09:09.234163
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-08-25 05:09:09.368876
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-08-25 05:09:09.638250
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-08-25 05:09:09.682605
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-08-25 05:09:09.799061
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-25 05:09:10.117690
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-08-25 05:09:10.139089
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-25 05:09:10.378946
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-25 05:09:10.549572
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-08-25 05:09:10.582740
