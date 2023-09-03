@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-01 05:09:33.341750
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-01 05:09:33.392242
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-01 05:09:33.459845
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-01 05:09:33.751045
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-01 05:09:33.806979
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-01 05:09:33.843018
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-01 05:09:34.145487
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-01 05:09:34.254226
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-01 05:09:34.284444
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-01 05:09:34.537648
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-01 05:09:34.663065
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-03 05:09:06.152416
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-03 05:09:06.345310
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-03 05:09:06.476288
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-03 05:09:06.575224
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-03 05:09:06.789702
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-03 05:09:06.904823
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-03 05:09:07.092381
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-03 05:09:07.379078
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-03 05:09:07.542597
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-03 05:09:07.580098
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-03 05:09:07.880747
