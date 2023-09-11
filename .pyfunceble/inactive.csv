@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-09 05:08:47.812026
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-09 05:08:47.898244
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-09 05:08:48.023538
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-09 05:08:48.325015
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-09 05:08:48.468553
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-09 05:08:48.533180
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-09 05:08:48.864297
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-09 05:08:49.080603
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-09 05:08:49.149042
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-09 05:08:49.370274
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-09 05:08:49.689548
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-11 05:09:43.344248
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-11 05:09:43.534233
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-11 05:09:43.628079
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-11 05:09:43.874258
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-11 05:09:44.057215
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-11 05:09:44.145581
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-11 05:09:44.372830
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-11 05:09:44.610917
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-11 05:09:44.865948
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-11 05:09:44.939719
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-11 05:09:45.086045
