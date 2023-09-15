@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-13 05:09:48.026594
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-13 05:09:48.250117
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-13 05:09:48.323637
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-13 05:09:49.031296
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-13 05:09:49.310377
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-13 05:09:49.583706
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-13 05:09:49.765040
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-13 05:09:50.573613
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-13 05:09:50.731025
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-13 05:09:50.894231
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-13 05:09:51.871691
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-15 05:09:29.204082
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-15 05:09:29.299503
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-15 05:09:29.350700
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-15 05:09:29.615881
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-15 05:09:29.710263
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-15 05:09:29.822299
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-15 05:09:30.032146
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-15 05:09:30.215933
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-15 05:09:30.260735
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-15 05:09:30.481341
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-15 05:09:30.846023
