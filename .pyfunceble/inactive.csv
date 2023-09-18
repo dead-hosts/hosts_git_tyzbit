@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-17 05:08:59.092712
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-17 05:08:59.212546
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-17 05:08:59.319785
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-17 05:08:59.623807
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-17 05:08:59.768440
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-17 05:08:59.810173
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-17 05:09:00.137542
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-17 05:09:00.407001
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-17 05:09:00.454327
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-17 05:09:00.672092
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-17 05:09:00.934139
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-18 05:09:43.818264
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-18 05:09:43.911409
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-18 05:09:44.047307
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-18 05:09:44.349536
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-18 05:09:44.441603
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-18 05:09:44.678025
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-18 05:09:44.865465
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-18 05:09:45.090172
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-18 05:09:45.236421
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-18 05:09:45.366524
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-18 05:09:45.631086
