@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-22 05:09:40.252560
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-22 05:09:40.277044
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-22 05:09:40.591650
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-22 05:09:40.744725
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-22 05:09:40.776244
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-22 05:09:41.081107
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-22 05:09:41.254741
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-22 05:09:41.260460
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-22 05:09:41.601948
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-22 05:09:41.777971
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-22 05:09:41.811422
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-24 05:09:38.149384
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-09-24 05:09:38.207675
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-24 05:09:38.408110
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-09-24 05:09:38.639178
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-09-24 05:09:38.713352
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-09-24 05:09:38.921783
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-09-24 05:09:39.146513
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-24 05:09:39.196436
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-24 05:09:39.553370
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-24 05:09:39.638616
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-09-24 05:09:39.714228
