@@ -1,12 +1,12 @@
 idna_subject,checker_type,destination,tested_at
-vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-10-13 05:09:57.264041
-vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-10-13 05:09:57.377916
-sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-10-13 05:09:57.725928
-corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-10-13 05:09:57.783972
-corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-10-13 05:09:57.893261
-statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-10-13 05:09:58.411624
-compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-10-13 05:09:58.420900
-i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-13 05:09:58.442140
-oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-13 05:09:58.930060
-telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-13 05:09:58.962676
-watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-13 05:09:59.032738
+vortex-cy2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-10-15 05:09:35.289692
+sls.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-10-15 05:09:35.564299
+corpext.msitadfs.glbdns2.microsoft.com,AVAILABILITY,origin.list,2023-10-15 05:09:36.354630
+vortex-bn2.metron.live.com.nsatc.net,AVAILABILITY,origin.list,2023-10-15 05:09:35.364318
+corp.sts.microsoft.com,AVAILABILITY,origin.list,2023-10-15 05:09:36.800885
+statsfe2.update.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-10-15 05:09:36.854631
+compatexchange.cloudapp.net,AVAILABILITY,origin.list,2023-10-15 05:09:37.539637
+oca.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-15 05:09:37.634349
+i1.services.social.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-15 05:09:37.692618
+telecommand.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-15 05:09:38.734890
+watson.telemetry.microsoft.com.nsatc.net,AVAILABILITY,origin.list,2023-10-15 05:09:38.616430
